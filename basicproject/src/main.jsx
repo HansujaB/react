@@ -22,15 +22,17 @@ function MyApp(){
 // }
 
 
-//this is a 
+//this is a object  anotherElement  and it will work it will pare everything on its own 
 const anotherElement = (
     <a href="https://google.com" target='_blank'>Visit google</a>
 )
 
 
-
+//we can use it like {another user}
 const anotherUser = "chai aur react"
 
+
+//it is a object will be used like that taked a set of values in this order only 
 const reactElement = React.createElement(
     'a',
     {href: 'https://google.com',target: '_blank' },
