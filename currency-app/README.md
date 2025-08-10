@@ -16,11 +16,3 @@ A simple and responsive currency converter built with **React** and **Tailwind C
 - **fawazahmed0/exchange-api** – Currency data (via CDN)
 - **Vite / CRA** – Development environment
 
----
-
-## 📦 Installation
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/yourusername/currency-converter.git
-   cd currency-converter
